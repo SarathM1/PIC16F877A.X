@@ -16,3 +16,4 @@ dist/default/production/PIC16F877A.X.production.cmf
 Makefile
 *.properties
 nbproject/Package-default.bash
+*.hex
